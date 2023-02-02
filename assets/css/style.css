@@ -31,7 +31,10 @@ h1 {
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
-  margin-left: 25px;
+}
+
+li {
+  display: inline;
 }
 /* pretty sure these are not needed. */
 /* .header div ul {
@@ -77,6 +80,8 @@ p {
   margin-left: 20px;
 }
 
+/* how do stretch this box to match the mock up without minimizing the text? 
+Height is doing nothing - should be omitted.*/
 .side-box {
   margin-right: 20px;
   padding: 30px;
