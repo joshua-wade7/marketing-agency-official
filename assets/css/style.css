@@ -24,7 +24,7 @@ h1 {
 .seo {
   color: #d9dcd6;
 }
-
+/* need to space nav bar items equally per mock-up, link SEO button to take us to corresponding section. */
 .header-div {
   padding-top: 15px;
   margin-right: 20px;
@@ -33,7 +33,7 @@ h1 {
   font-size: 20px;
   margin-left: 25px;
 }
-
+/* pretty sure these are not needed. */
 /* .header div ul {
   list-style-type: none;
 }
@@ -79,7 +79,7 @@ p {
 
 .side-box {
   margin-right: 20px;
-  padding: 20px;
+  padding: 30px;
   float: right;
   width: 20%;
   height: 100%;
@@ -115,7 +115,7 @@ p {
 #images-1 {
   max-height: 200px;
 }
-
+/* combine the three selectors listed below into one selector. */
 .search-engine-optimization h2 {
   margin-bottom: 20px;
   font-size: 36px;
@@ -130,7 +130,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* Do I omit footer entirely per mock-up? */
 .footer {
   padding: 30px;
   clear: both;
