@@ -35,7 +35,10 @@ h1 {
 
 li {
   display: inline;
+  text-align: right;
+  margin: 30px;
 }
+
 /* pretty sure these are not needed. */
 /* .header div ul {
   list-style-type: none;
