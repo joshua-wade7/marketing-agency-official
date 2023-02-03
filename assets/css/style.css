@@ -39,16 +39,6 @@ li {
   margin: 30px;
 }
 
-/* pretty sure these are not needed. */
-/* .header div ul {
-  list-style-type: none;
-}
-
-.header-anchors {
-  display: inline-block;
-  margin-left: 25px;
-} */
-
 a {
   color: #ffffff;
   text-decoration: none;
@@ -120,24 +110,15 @@ Height is doing nothing - should be omitted.*/
   color: #ffffff;
 }
 
-#images-1 {
+.images-1 {
   max-height: 200px;
 }
-/* combine the three selectors listed below into one selector. */
-.search-engine-optimization h2 {
+
+.text-format h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
 /* Do I omit footer entirely per mock-up? */
 .footer {
   padding: 30px;
