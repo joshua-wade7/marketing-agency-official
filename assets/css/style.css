@@ -73,8 +73,8 @@ p {
   margin-left: 20px;
 }
 
-/* how do stretch this box to match the mock up without minimizing the text? 
-Height is doing nothing - should be omitted.*/
+/* how do I stretch this box to match the mock up without minimizing the text? 
+Height is doing nothing - should be omitted?*/
 .side-box {
   margin-right: 20px;
   padding: 30px;
